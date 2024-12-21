@@ -1,32 +1,29 @@
-# Hi there, I'm Mr. Okpala 👋
+<h1 align="center">Hi 👋, I'm Okpala Uchenna</h1>
+<h3 align="center">A passionate devops engineer from Nigeria</h3>
 
-🔭 I’m currently working on **Docker**.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mr-okpala" alt="mr-okpala" /></a> </p>
 
-🌱 I’m currently learning **AZ-104 Projects**.
+- 🌱 I’m currently learning **python**
 
-👯 I’m looking to collaborate on **Cloud Projects** with **Azure**/**AWS**.
+- 👯 I’m looking to collaborate on **cloud native project**
 
-👨‍💻 All of my projects are available at [GitHub - Mr-Okpala](https://github.com/Mr-Okpala).
+- 🤝 I’m looking for help with **Devops/system-administrator**
 
-## 💬 Ask me about:
-- **Cloud**
-- **Azure**
-- **Infrastructure**
+- 👨‍💻 All of my projects are available at [https://github.com/Mr-Okpala](https://github.com/Mr-Okpala)
 
-## 📫 How to reach me:
-- Email: [okenokpala@gmail.com](mailto:okenokpala@gmail.com)
+- 💬 Ask me about **Devops**
 
-## ⚡ Fun fact:
-I love **basketball**! 🏀
+- 📫 How to reach me **okenokpala@gmail.com**
 
-## 🐦 Connect with me:
-- [Twitter](https://x.com/God_is_Good00?t=3CYlg_cOLnoOfYVOhuiaqQ&s=09_)
-- [LinkedIn](https://www.linkedin.com/in/okpala-uchenna-899583327_)
-- [GitHub](https://github.com/Mr-Okpala_)
+- ⚡ Fun fact **I play basketball**
 
-## 🧰 Languages and Tools:
-- **Cloud**: Azure, AWS
-- **Programming**: C#, Python, bash, Node.js
-- **Tools**: Docker, Kubernetes, Git, terraform 
-- **Web Development**: HTML5
-- **Operating Systems**: Linux
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/god_is_good00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="god_is_good00" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/okpala-uchenna-899583327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/okpala-uchenna-899583327" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mr-okpala&show_icons=true&locale=en" alt="mr-okpala" /></p>
