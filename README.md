@@ -27,6 +27,6 @@ I love **basketball**! 🏀
 ## 🧰 Languages and Tools:
 - **Cloud**: Azure, AWS
 - **Programming**: C#, Python, bash, Node.js
-- **Tools**: Docker, Kubernetes, Git, terraform. Docker 
+- **Tools**: Docker, Kubernetes, Git, terraform 
 - **Web Development**: HTML5
 - **Operating Systems**: Linux
