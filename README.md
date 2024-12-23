@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Devops/system-administrator**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Okpala](https://github.com/Mr-Okpala)
+- 👨‍💻 All of my projects are available at [https://github.com/Mr-Okpala](https://github.com/Okpala-Uchenna)
 
 - 💬 Ask me about **Devops**
 
