@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **cloud native project**
 
-- 🤝 I’m looking for help with **Devops/system-administrator**
+- 🤝 I’m looking for help with **Intenship in Devops/system-administrator**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mr-Okpala](https://github.com/Okpala-Uchenna)
 
