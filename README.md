@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okpala Uchenna</h1>
-<h3 align="center">A passionate Devops engineer from Nigeria</h3>
+<h3 align="center">A passionate Devops engineer from Lagos </h3>
 
 - 🌱 I’m currently learning **python**
 
