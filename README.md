@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Okpala Uchenna</h1>
-<h3 align="center">A passionate Devops engineer from Lagos </h3>
+<h3 align="center">A passionate Devops Engineer from Lagos </h3>
 
 - 🌱 I’m currently learning **python**
 
@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Intenship in Devops/system-administrator**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mr-Okpala](https://github.com/Okpala-Uchenna)
+- 👨‍💻 All of my projects are available at [https://github.com/Okpala-Uchenna](https://github.com/Okpala-Uchenna)
 
 - 💬 Ask me about **Devops**
 
