@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Okpala Uchenna</h1>
 <h3 align="center">A passionate Devops Engineer from Lagos </h3>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Jenkins**
 
 - 👯 I’m looking to collaborate on **cloud native project**
 
